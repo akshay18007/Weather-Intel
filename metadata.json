@@ -1,0 +1,7 @@
+{
+  "name": "Weather Intelligence",
+  "description": "City search, live Open-Meteo weather data, 7-day forecast, and intelligent daily planning recommendations.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
